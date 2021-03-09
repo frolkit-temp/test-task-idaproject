@@ -13,7 +13,7 @@ copy idaproject\.env.default idaproject\.env
 3. Создайте и активируйте виртуальное окружение
 ```
 python -m venv venv
-"venv/Scripts/activate"
+venv\Scripts\activate
 ```
 
 4. Установите зависимости
